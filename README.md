@@ -18,14 +18,5 @@ Assistente pessoal para pessoas de pouca ou nenhuma visibilidade.
 ### Direitos Autorais e Segurança
   Não teria nenhuma preocupação com fotos de pessoas na rua pois uma vez que a imagem é processada pelo assistente a mesma é apagada não mantendo nenhuma imagem não autorizada. O que não faz necessário grande armazenamento de dados no gadget e não há processos em nosso produto por direitos autorais, mantendo a segurança e privacidade das pessoas.
 
-### Instalação
-Siga estes passos para instalar o **Assistente Pessoal para Cegos**:
-  [Passo 1]
-  [Passo 2]
-  [Passo 3]
-  
-### Começando
-Para começar a usar o **Assistente Pessoal para Cegos**, siga estas etapas:
-  [Passo 1]
-  [Passo 2]
-  [Passo 3]
+### Utilização
+[Abrir projeto no Google Colab](https://colab.research.google.com/github/Mario-Henrique/AssistenteParaCegos/blob/main/AssistenteParaCegos_V01.ipynb\)
