@@ -19,4 +19,4 @@ Assistente pessoal para pessoas de pouca ou nenhuma visibilidade.
   Não teria nenhuma preocupação com fotos de pessoas na rua pois uma vez que a imagem é processada pelo assistente a mesma é apagada não mantendo nenhuma imagem não autorizada. O que não faz necessário grande armazenamento de dados no gadget e não há processos em nosso produto por direitos autorais, mantendo a segurança e privacidade das pessoas.
 
 ### Utilização
-[Abrir projeto no Google Colab](https://colab.research.google.com/github/Mario-Henrique/AssistenteParaCegos/blob/main/AssistenteParaCegos_V01.ipynb\)
+[Abrir projeto no Google Colab](https://colab.research.google.com/github/Mario-Henrique/AssistenteParaCegos/blob/main/AssistenteParaCegos_V01_2.ipynb)
